@@ -1,0 +1,2 @@
+local_proxy - a simple proxy that sends a file if has it in local
+database, otherwise works as a normal proxy.
